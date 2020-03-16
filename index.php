@@ -1,9 +1,9 @@
-<!-- ?xml version='1.0' encoding='UTF-8'? --> 
+<!-- ?xml version='1.0' encoding='windows-1250'? --> 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns='http://www.w3.org/1999/xhtml' xml:lang='cs' lang='cs'> 
 <head>
-  <title>ZÄ‚Ë‡kladnÄ‚Â­ Ä¹Ë‡kola a MateÄ¹â„¢skÄ‚Ë‡ Ä¹Ë‡kola Petrovice u KarvinÄ‚Â©</title>
-  <meta http-equiv='Content-Type' content='text/html; charset=UTF-8' /> 
+  <title>Základní škola a Mateøská škola Petrovice u Karviné</title>
+  <meta http-equiv='Content-Type' content='text/html; charset=windows-1250' /> 
   <meta http-equiv='Content-language' content='cs' /> 
   <!-- CACHE - MSIE /--> 
   <meta http-equiv='Cache-Control' content='must-revalidate, post-check=0, pre-check=0' /> 
@@ -12,9 +12,9 @@
   <meta http-equiv='Cache-Control' content='no-cache' /> 
   <meta http-equiv='Pragma' content='no-cache' /> 
   <meta http-equiv='Expires' content='-1' /> 
-  <meta name='description' content='OficiÄ‚Ë‡lnÄ‚Â­ strÄ‚Ë‡nky zÄ‚Ë‡kladnÄ‚Â­ Ä¹Ë‡koly a mateÄ¹â„¢skÄ‚Â© Ä¹Ë‡koly v PetrovicÄ‚Â­ch u KarvinÄ‚Â©' /> 
-  <meta name='keywords' content='Ä¹Ë‡kola,skola,zÄ‚Ë‡kladnÄ‚Â­ Ä¹Ë‡kola,zakladni skola,mateÄ¹â„¢skÄ‚Ë‡ Ä¹Ë‡kola,materska skola,Petrovice,Karvina,KarvinÄ‚Ë‡' /> 
-  <meta name='author' content='dantik - LukÄ‚Ë‡Ä¹Ë‡ Trombik - dantik&#64;atlas.cz' /> 
+  <meta name='description' content='Oficiální stránky základní školy a mateøské školy v Petrovicích u Karviné' /> 
+  <meta name='keywords' content='škola,skola,základní škola,zakladni skola,mateøská škola,materska skola,Petrovice,Karvina,Karviná' /> 
+  <meta name='author' content='dantik - Lukáš Trombik - dantik&#64;atlas.cz' /> 
   <link rel='shortcut icon' type='image/x-icon' href='http://www.zspetroviceuk.cz/old/favicon.ico' />
   <link rel='stylesheet' type='text/css' media='all' href='css/style.css' /> 
   <link rel='stylesheet' type='text/css' media='screen' href='http://www.zspetroviceuk.cz/old/css/styles.css' /> 
@@ -37,10 +37,10 @@
 
   <div id="top">
     <div style="width:798px;">
-      <img class="vlevo" src="pixy/top_logo_skoly.gif" alt="top_logo_skoly.gif" title="Petrovice u KarvinÄ‚Â©" style="border:0px;height:115px;width:135px;vertical-align:top;" /><img class="vpravo" src="pixy/top_nazev_skoly.gif" alt="top_nazev_skoly.gif" title="ZÄ‚Ë‡kladnÄ‚Â­ Ä¹Ë‡kola a MateÄ¹â„¢skÄ‚Ë‡ Ä¹Ë‡kola Petrovice u KarvinÄ‚Â©"  style="border:0px;height:115px;width:663px;vertical-align:top;" />      
+      <img class="vlevo" src="pixy/top_logo_skoly.gif" alt="top_logo_skoly.gif" title="Petrovice u Karviné" style="border:0px;height:115px;width:135px;vertical-align:top;" /><img class="vpravo" src="pixy/top_nazev_skoly.gif" alt="top_nazev_skoly.gif" title="Základní škola a Mateøská škola Petrovice u Karviné"  style="border:0px;height:115px;width:663px;vertical-align:top;" />      
     </div>
     <!-- absolutni umisteni  Admin sekce-->
-    <a class="admin" title="PÄ¹â„¢ihlÄ‚Ë‡Ä¹Ë‡enÄ‚Â­ admina" href="index.php%3Fid=99.html">Admin</a>
+    <a class="admin" title="Pøihlášení admina" href="index.php%3Fid=99.html">Admin</a>
   </div>  
 <!-- Levy sloupec -->  
   <div id="panelL">
@@ -49,21 +49,21 @@
       <p>&nbsp;</p>
       <div class="menu">NAVIGACE</div>
       <ul>
-        <li><a title="Ä‚Å¡vod" href="index.php%3Fid=1.html">Ä‚Å¡vod</a></li>
-        <li><a title="Struktura Ä¹Ë‡koly" href="index.php%3Fid=2.html">Struktura Ä¹Ë‡koly</a></li>
+        <li><a title="Úvod" href="index.php%3Fid=1.html">Úvod</a></li>
+        <li><a title="Struktura školy" href="index.php%3Fid=2.html">Struktura školy</a></li>
         <li><a title="Historie" href="index.php%3Fid=3.html">Historie</a></li>            
-        <li><a title="Ä¹Â kolnÄ‚Â­ rok" href="index.php%3Fid=4.html">Ä¹Â kolnÄ‚Â­ rok</a></li>
-        <li><a title="ZamÃ„â€ºstnanci" href="index.php%3Fid=5.html">ZamÃ„â€ºstnanci</a></li>            
-        <li><a title="MÃ„â€ºsÄ‚Â­Ã„Å¤nÄ‚Â­ plÄ‚Ë‡n" href="index.php%3Fid=6.html">MÃ„â€ºsÄ‚Â­Ã„Å¤nÄ‚Â­ plÄ‚Ë‡n</a></li>
-        <li><a title="RoÃ„Å¤nÄ‚Â­ plÄ‚Ë‡n" href="index.php%3Fid=15.html">RoÃ„Å¤nÄ‚Â­ plÄ‚Ë‡n</a></li>                    
-        <li><a title="ZÄ‚Ë‡jmovÄ‚Ë‡ Ã„Å¤innost" href="index.php%3Fid=7.html">ZÄ‚Ë‡jmovÄ‚Ë‡ Ã„Å¤innost</a></li>
-        <li><a title="SoutÃ„â€ºÄ¹Ä¾e" href="index.php%3Fid=8.html">SoutÃ„â€ºÄ¹Ä¾e</a></li>                  
-        <li><a title="Ä¹Â kolnÄ‚Â­ akce" href="index.php%3Fid=14.html">Ä¹Â kolnÄ‚Â­ akce</a></li>                  
+        <li><a title="Školní rok" href="index.php%3Fid=4.html">Školní rok</a></li>
+        <li><a title="Zamìstnanci" href="index.php%3Fid=5.html">Zamìstnanci</a></li>            
+        <li><a title="Mìsíèní plán" href="index.php%3Fid=6.html">Mìsíèní plán</a></li>
+        <li><a title="Roèní plán" href="index.php%3Fid=15.html">Roèní plán</a></li>                    
+        <li><a title="Zájmová èinnost" href="index.php%3Fid=7.html">Zájmová èinnost</a></li>
+        <li><a title="Soutìe" href="index.php%3Fid=8.html">Soutìe</a></li>                  
+        <li><a title="Školní akce" href="index.php%3Fid=14.html">Školní akce</a></li>                  
         <li><a title="Fotogalerie" href="index.php%3Fid=9.html">Fotogalerie</a></li>
         <li>&nbsp;</li>
-        <li><a title="Dokumenty Ä¹Ë‡koly" href="index.php%3Fid=10.html">Dokumenty Ä¹Ë‡koly</a></li>
-        <li><a title="Ä¹Â kolskÄ‚Ë‡ rada" href="index.php%3Fid=11.html">Ä¹Â kolskÄ‚Ë‡ rada</a></li>                  
-        <li><a title="Ä¹Â kolnÄ‚Â­ jÄ‚Â­delna" href="index.php%3Fid=12.html">Ä¹Â kolnÄ‚Â­ jÄ‚Â­delna</a></li>
+        <li><a title="Dokumenty školy" href="index.php%3Fid=10.html">Dokumenty školy</a></li>
+        <li><a title="Školská rada" href="index.php%3Fid=11.html">Školská rada</a></li>                  
+        <li><a title="Školní jídelna" href="index.php%3Fid=12.html">Školní jídelna</a></li>
         <li><a title="Metodik prevence" href="index.php%3Fid=13.html">Metodik prevence</a></li>        
         </ul>
       </div>    
@@ -72,38 +72,332 @@
 <!-- Konec Levy sloupec -->  
 <!-- Pravy sloupec -->
   <div id="panelP">
-    <div class="zahlavi">Dnes mÄ‚Ë‡ svÄ‚Ë‡tek:</div>
+    <div class="zahlavi">Dnes má svátek:</div>
     <div class="obsah">
       <div class="center"><strong><script src="styles/svatek.js" type="text/javascript"></script></strong></div>    
     </div>
 
-    <div class="zahlavi">KalendÄ‚Ë‡Ä¹â„¢</div>
-    <div class="obsah"><div style='text-align:center;'><table border='0' cellspacing='1' cellpadding='0'><tr style='text-align:center;vertical-align:middle;'><td style='background-color:#CAFFCA;' class='cal'><b>Po</b></td><td style='background-color:#CAFFCA;' class='cal'><b>Ä‚Å¡t</b></td><td style='background-color:#CAFFCA;' class='cal'><b>St</b></td><td style='background-color:#CAFFCA;' class='cal'><b>Ã„Åšt</b></td><td style='background-color:#CAFFCA;' class='cal'><b>PÄ‚Ë‡</b></td><td style='background-color:#ABDB43;' class='cal'><b>So</b></td><td style='background-color:#ABDB43;' class='cal'><b>Ne</b></td></tr><tr style='text-align:center;'><td title='24.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=24&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >24</a></td><td title='25.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=25&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >25</a></td><td title='26.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=26&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >26</a></td><td title='27.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=27&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >27</a></td><td title='28.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=28&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >28</a></td><td title='29.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=29&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >29</a></td><td title='1.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=1&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >01</a></td></tr><tr style='text-align:center;'><td title='2.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=2&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >02</a></td><td title='3.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=3&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >03</a></td><td title='4.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=4&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >04</a></td><td title='5.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=5&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >05</a></td><td title='6.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=6&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >06</a></td><td title='7.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=7&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >07</a></td><td title='8.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=8&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >08</a></td></tr><tr style='text-align:center;'><td title='9.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=9&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >09</a></td><td title='10.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=10&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >10</a></td><td title='11.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=11&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >11</a></td><td title='12.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=12&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >12</a></td><td title='13.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=13&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >13</a></td><td title='14.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=14&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >14</a></td><td title='15.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=15&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >15</a></td></tr><tr style='text-align:center;'><td title='16.3. 2020' style='background-color:#FC9502;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=16&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >16</a></td><td title='17.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=17&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >17</a></td><td title='18.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=18&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >18</a></td><td title='19.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=19&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >19</a></td><td title='20.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=20&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >20</a></td><td title='21.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=21&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >21</a></td><td title='22.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=22&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >22</a></td></tr><tr style='text-align:center;'><td title='23.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=23&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >23</a></td><td title='24.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=24&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >24</a></td><td title='25.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=25&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >25</a></td><td title='26.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=26&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >26</a></td><td title='27.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=27&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >27</a></td><td title='28.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=28&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >28</a></td><td title='29.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=29&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >29</a></td></tr><tr style='text-align:center;'><td title='30.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=30&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >30</a></td><td title='31.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=31&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >31</a></td><td title='1.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=1&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >01</a></td><td title='2.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=2&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >02</a></td><td title='3.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=3&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >03</a></td><td title='4.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=4&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >04</a></td><td title='5.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=5&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >05</a></td></tr></table></div>
+    <div class="zahlavi">Kalendáø</div>
+    <div class="obsah"><div style='text-align:center;'><table border='0' cellspacing='1' cellpadding='0'><tr style='text-align:center;vertical-align:middle;'><td style='background-color:#CAFFCA;' class='cal'><b>Po</b></td><td style='background-color:#CAFFCA;' class='cal'><b>Út</b></td><td style='background-color:#CAFFCA;' class='cal'><b>St</b></td><td style='background-color:#CAFFCA;' class='cal'><b>Èt</b></td><td style='background-color:#CAFFCA;' class='cal'><b>Pá</b></td><td style='background-color:#ABDB43;' class='cal'><b>So</b></td><td style='background-color:#ABDB43;' class='cal'><b>Ne</b></td></tr><tr style='text-align:center;'><td title='24.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=24&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >24</a></td><td title='25.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=25&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >25</a></td><td title='26.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=26&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >26</a></td><td title='27.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=27&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >27</a></td><td title='28.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=28&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >28</a></td><td title='29.2. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=29&amp;mesic=2&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >29</a></td><td title='1.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=1&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >01</a></td></tr><tr style='text-align:center;'><td title='2.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=2&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >02</a></td><td title='3.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=3&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >03</a></td><td title='4.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=4&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >04</a></td><td title='5.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=5&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >05</a></td><td title='6.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=6&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >06</a></td><td title='7.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=7&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >07</a></td><td title='8.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=8&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >08</a></td></tr><tr style='text-align:center;'><td title='9.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=9&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >09</a></td><td title='10.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=10&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >10</a></td><td title='11.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=11&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >11</a></td><td title='12.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=12&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >12</a></td><td title='13.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=13&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >13</a></td><td title='14.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=14&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >14</a></td><td title='15.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=15&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >15</a></td></tr><tr style='text-align:center;'><td title='16.3. 2020' style='background-color:#FC9502;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=16&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >16</a></td><td title='17.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=17&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >17</a></td><td title='18.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=18&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >18</a></td><td title='19.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=19&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >19</a></td><td title='20.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=20&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >20</a></td><td title='21.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=21&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >21</a></td><td title='22.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=22&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >22</a></td></tr><tr style='text-align:center;'><td title='23.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=23&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >23</a></td><td title='24.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=24&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >24</a></td><td title='25.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=25&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >25</a></td><td title='26.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=26&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >26</a></td><td title='27.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=27&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >27</a></td><td title='28.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=28&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >28</a></td><td title='29.3. 2020' style='background-color:#ABDB43;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=29&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >29</a></td></tr><tr style='text-align:center;'><td title='30.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=30&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >30</a></td><td title='31.3. 2020' style='background-color:#CAFFCA;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=31&amp;mesic=3&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >31</a></td><td title='1.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=1&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >01</a></td><td title='2.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=2&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >02</a></td><td title='3.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=3&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >03</a></td><td title='4.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=4&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >04</a></td><td title='5.4. 2020' style='background-color:#E9FFE9;' class='cal'><a class='cal' href='javascript:' onclick="window.open('./styles/cal_svatek.php?den=5&amp;mesic=4&amp;rok=2020', 'POKUS','resizable,menubar=0,width=500,height=150')" >05</a></td></tr></table></div>
 </div>
 
     <div class="zahlavi">Kontakt</div>
     <div class="obsah">
-      <div class="center"><strong>ZÄ‚Ë‡kladnÄ‚Â­ Ä¹Ë‡kola a MateÄ¹â„¢skÄ‚Ë‡ Ä¹Ë‡kola<br />Petrovice u KarvinÄ‚Â©,<br />pÄ¹â„¢Ä‚Â­spÃ„â€ºvkovÄ‚Ë‡ organizace<br />IÃ„ÅšO: 75 02 89 13<br /></strong></div>
+      <div class="center"><strong>Základní škola a Mateøská škola<br />Petrovice u Karviné,<br />pøíspìvková organizace<br />IÈO: 75 02 89 13<br /></strong></div>
       <br /><strong>tel./fax:</strong> 596 361 061<br />
       <strong>e-mail:</strong> <a href="mailto:zspetroviceuk@seznam.cz" title="Mail:zspetroviceuk@seznam.cz">zspetroviceuk@<br />seznam.cz</a> 
     </div>
     <!--
       <div class="zahlavi">Projekty</div>
     <div class="obsah">
-      <p>Ä¹Â kola se spolu s GymnÄ‚Ë‡ziem Fr.Ä¹ËivnÄ‚Â©ho v BohumÄ‚Â­nÃ„â€º podÄ‚Â­lÄ‚Â­ na projektu Ã„Å¤.0560P 2005 a Ã„Å¤.0292P 2006 IC jako metodickÄ‚Â© stÄ¹â„¢edisko pro aktivnÄ‚Â­ implementaci IT do vÄ‚Ëuky.</p>
+      <p>Škola se spolu s Gymnáziem Fr.ivného v Bohumínì podílí na projektu è.0560P 2005 a è.0292P 2006 IC jako metodické støedisko pro aktivní implementaci IT do vıuky.</p>
     </div>
     -->
     <p>&nbsp;</p>
   </div>
 <!-- Konec Pravy sloupec -->  
 <!-- Prostredni sloupec -->
-  <div id="panelU"><h1>Fotogalerie Ä¹Ë‡koly</h1>
+  <div id="panelU"><h1>Fotogalerie školy</h1>
 <ul>
-  <li><a href="index.php%3Fid=9_2007_277.html" title="LouÃ„Å¤enÄ‚Â­ s pÄ¹â„¢edÄ¹Ë‡kolÄ‚Ë‡ky 2010">LouÃ„Å¤enÄ‚Â­ s pÄ¹â„¢edÄ¹Ë‡kolÄ‚Ë‡ky - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_276.html" title="PirÄ‚Ë‡ti 2010">PirÄ‚Ë‡ti - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_275.html" title="RozlouÃ„Å¤enÄ‚Â­ s pÄ¹â„¢edÄ¹Ë‡kolÄ‚Ë‡ky 2010">RozlouÃ„Å¤enÄ‚Â­ s pÄ¹â„¢edÄ¹Ë‡kolÄ‚Ë‡ky - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_274.html" title="A to nÄ‚Ë‡s bavÄ‚Â­...! 2010">A to nÄ‚Ë‡s bavÄ‚Â­...! - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_273.html" title="Ä¹Â kolnÄ‚Â­ vÄ‚Ëlet na Opavsko 2010">Ä¹Â kolnÄ‚Â­ vÄ‚Ëlet na Opavsko - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_277.html" title="Louèení s pøedškoláky 2010">Louèení s pøedškoláky - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_276.html" title="Piráti 2010">Piráti - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_275.html" title="Rozlouèení s pøedškoláky 2010">Rozlouèení s pøedškoláky - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_274.html" title="A to nás baví...! 2010">A to nás baví...! - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_273.html" title="Školní vılet na Opavsko 2010">Školní vılet na Opavsko - 2010</a></li>
   <li><a href="index.php%3Fid=9_2007_272.html" title="Superstar 2010">Superstar - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_271.html" title="KrouÄ¹Ä¾ek anglickÄ‚Â©ho jazyka 2010">KrouÄ¹Ä¾ek anglickÄ‚Â©ho jazyka - 2010</a></li>
-  <li><a href="index.php%3Fid=9_2007_270.html" title="Jaro v koÄ¹
+  <li><a href="index.php%3Fid=9_2007_271.html" title="Krouek anglického jazyka 2010">Krouek anglického jazyka - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_270.html" title="Jaro v koòském sedle 2010">Jaro v koòském sedle - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_269.html" title="Dìti dìtem 2010">Dìti dìtem - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_268.html" title="MŠ Závada v Dinoparku 2010">MŠ Závada v Dinoparku - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_267.html" title="Školní vılet – indiánské mìsteèko 2010">Školní vılet – indiánské mìsteèko - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_266.html" title="Vılet 4.A 2010">Vılet 4.A - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_265.html" title="Školní vılet I.A do Dinoparku 2010">Školní vılet I.A do Dinoparku - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_264.html" title="Kulièkovı král a švihadlová princezna 2010">Kulièkovı král a švihadlová princezna - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_263.html" title="Hrajeme si se skøítkem 2010">Hrajeme si se skøítkem - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_262.html" title="Vılet vítìzné tøídy 2010">Vılet vítìzné tøídy - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_261.html" title="Celoroèní soutì tøíd - vítìzové 2010">Celoroèní soutì tøíd - vítìzové - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_260.html" title="Plaveckı vıcvik 2010">Plaveckı vıcvik - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_259.html" title="Den dìtí v MŠ Závada 2010">Den dìtí v MŠ Závada - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_258.html" title="Dìjepisná exkurze do Prahy 2010">Dìjepisná exkurze do Prahy - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_257.html" title="Den dìtí 2010">Den dìtí - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_256.html" title="Den dìtí v Marklovicích 2010">Den dìtí v Marklovicích - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_255.html" title="Kurz plavání 2010">Kurz plavání - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_254.html" title="Finále pìvecké soutìe Karvinskı talent 2010">Finále pìvecké soutìe Karvinskı talent - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_253.html" title="Sváteèní posezení s maminkami 2010">Sváteèní posezení s maminkami - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_252.html" title="Den matek v Závadì 2010">Den matek v Závadì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_251.html" title="Z pohádky do pohádky 2010">Z pohádky do pohádky - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_250.html" title="Slet èarodìjnic 2010">Slet èarodìjnic - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_249.html" title="Èarodìní v Závadì 2010">Èarodìní v Závadì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_248.html" title="Vzpomínka na letce 2010">Vzpomínka na letce - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_247.html" title="Šetøení pøírodních zdrojù 2010">Šetøení pøírodních zdrojù - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_246.html" title="Vítání jara 2010">Vítání jara - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_245.html" title="Tvùrèí dílny 2010">Tvùrèí dílny - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_244.html" title="Karvinskı talent 2010">Karvinskı talent - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_243.html" title="Hudební dílna pro dìti a rodièe 2010">Hudební dílna pro dìti a rodièe - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_242.html" title="Jarní vızdoba 2010">Jarní vızdoba - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_241.html" title="Dìtskı karneval 2010">Dìtskı karneval - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_240.html" title="Vajeèné dny 2010">Vajeèné dny - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_239.html" title="Malování obøích vajec 2010">Malování obøích vajec - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_238.html" title="Velikonoèní hraní 2010">Velikonoèní hraní - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_237.html" title="Noc s Andersenem 2010">Noc s Andersenem - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_236.html" title="Literárnì vıtvarná soutì 2010">Literárnì vıtvarná soutì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_235.html" title="Mìstské kolo pìvecké soutìe 2010">Mìstské kolo pìvecké soutìe - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_234.html" title="Pøedškoláci ve škole v „Pohádkové zahradì“ 2010">Pøedškoláci ve škole v „Pohádkové zahradì“ - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_233.html" title="Neèekaná návštìva 2010">Neèekaná návštìva - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_232.html" title="Beseda s hasièem v MŠ 2010">Beseda s hasièem v MŠ - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_231.html" title="Den knihy 2010">Den knihy - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_230.html" title="Práce keramického krouku 2010">Práce keramického krouku - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_229.html" title="Kurz plavání 2010">Kurz plavání - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_228.html" title="Karneval MŠ Závada 2010">Karneval MŠ Závada - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_227.html" title="Karneval Závada - Masopust dríme 2010">Karneval Závada - Masopust dríme - 2010</a></li>
+  <li><a href="index.php?id=9_2007_226" title="Projektovı den I.A "Èlovìk a zdraví" 2010">Projektovı den I.A "Èlovìk a zdraví" - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_225.html" title="Soutì - Úmluva OSN o právech dítìte 2010">Soutì pøi pøíleitosti 20. vıroèí Úmluvy OSN o právech dítìte 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_224.html" title="Veèer s Andersenem v MŠ Závada 2010">Veèer s Andersenem v MŠ Závada - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_223.html" title="Dìtskı karneval 2010">Dìtskı karneval - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_222.html" title="Lyaøskı kurz 2010">Lyaøskı kurz - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_221.html" title="Kurz bruslení 2010">Kurz bruslení - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_220.html" title="Vıroba masek ve školní druinì 2010">Vıroba masek ve školní druinì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_219.html" title="Zápis prvòáèkù v Marklovicích 2010">Zápis prvòáèkù v Marklovicích - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_218.html" title="Zápis prvòáèkù v Závadì 2010">Zápis prvòáèkù v Závadì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_217.html" title="Zápis prvòáèkù v Petrovicích 2010">Zápis prvòáèkù v Petrovicích - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_216.html" title="Pøedávání pololetního vysvìdèení v I.A 2010">Pøedávání pololetního vysvìdèení v I.A - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_215.html" title="Pøedávání slabikáøù 2010">Pøedávání slabikáøù - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_214.html" title="Spoleèenskovìdní soutì 2010">Spoleèenskovìdní soutì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_213.html" title="Konverzaèní soutì v anglickém jazyce 2010">Konverzaèní soutì v anglickém jazyce - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_212.html" title="Vızdoba školy v Závadì 2010">Vızdoba školy v Závadì - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_211.html" title="Tøi králové 2010">Tøi králové - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_210.html" title="Sportovní klání 2010">Sportovní klání - 2010</a></li>
+  <li><a href="index.php%3Fid=9_2007_209.html" title="Projektové dny - Vánoce 2009">Projektové dny - Vánoce 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_208.html" title="Vánoèní besídka 4.A - 2009">Vánoèní besídka 4.A - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_207.html" title="Besídka II.A - 2009">Besídka II.A - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_206.html" title="Mikulášská nadílka 2009">Mikulášská nadílka - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_205.html" title="Vánoèní pohlazení 2009">Vánoèní pohlazení - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_204.html" title="Zimní vızdoba 2009">Zimní vızdoba - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_203.html" title="Vánoèní nadílka 2009">Vánoèní nadílka - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_202.html" title="Vánoèní laka 2009">Vánoèní laka - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_201.html" title="Èesko - polská spolupráce 2009">Èesko - polská spolupráce - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_200.html" title="Pracovní èinnosti v 9. tøídì 2009">Pracovní èinnosti v 9. tøídì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_199.html" title="Vánoèní andìlé v MŠ Petrovice 2009">Vánoèní andìlé v MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_198.html" title="Okresní kolo šachové soutìe 2009">Okresní kolo šachové soutìe - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_197.html" title="Èertí rojení 2009">Èertí rojení - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_196.html" title="Èert a Mikuláš v MŠ Petrovice 2009">Èert a Mikuláš v MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_195.html" title="Knoflíkovı den 2009">Knoflíkovı den - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_194.html" title="Drakiáda 2009">Drakiáda - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_193.html" title="Bláznivı pátek 2009">Bláznivı pátek - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_192.html" title="Podzimáèci v MŠ Závada 2009">Podzimáèci v MŠ Závada - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_191.html" title="Školní strašení 2009">Školní strašení - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_190.html" title="Podzimáèci 2009">Podzimáèci - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_189.html" title="Projektové vyuèování - Halloween 2009">Projektové vyuèování - Halloween 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_188.html" title="Halloween v Marklovicích 2009">Halloween v Marklovicích - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_187.html" title="Barevné dopoledne 2009">Barevné dopoledne - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_186.html" title="Vycházka do lesoparku 2009">Vycházka do lesoparku - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_185.html" title="Podzimní vızdoba školy 2009">Podzimní vızdoba školy - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_184.html" title="Prvòáèci v MŠ 2009">Prvòáèci v MŠ - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_183.html" title="Byli jsme v Go³kovicích ve vokálním workshopu - 2009">Byli jsme v Go³kovicích ve vokálním workshopu - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_182.html" title="Barevnı podzim v 1.A - 2009">Barevnı podzim v 1.A - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_181.html" title="Závody na kolobìkách 2009">Závody na kolobìkách - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_180.html" title="Draci nad Závadou 2009">Draci nad Závadou - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_179.html" title="Škola v pøírodì Horní Lomná 2009">Škola v pøírodì Horní Lomná - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_178.html" title="Dinopark - MŠ Marklovice 2009">Dinopark - MŠ Marklovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_177.html" title="Adaptaèní kurz 2009">Adaptaèní kurz - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_176.html" title="Letní tábor 2009">Letní tábor - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_175.html" title="Louèení s pøedškoláky MŠ Petrovice 2009">Louèení s pøedškoláky MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_174.html" title="Návštìva dìtí MŠ Petrovice v 1. tøídì 2009">Návštìva dìtí MŠ Petrovice v 1. tøídì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_173.html" title="Super Star 2009">Super Star - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_172.html" title="Vlastivìdnı projekt 2009">Vlastivìdnı projekt - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_171.html" title="Veèírek na rozlouèenou 2009">Veèírek na rozlouèenou - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_170.html" title="Beseda s pøíslušníky policie 2009">Beseda s pøíslušníky policie - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_169.html" title="Školní vılet do pralesa Mionší 2009">Školní vılet do pralesa Mionší - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_168.html" title="Tatínku, pojï si hrát 2009">Tatínku, pojï si hrát - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_167.html" title="Návštìva hasièské zbrojnice 2009">Návštìva hasièské zbrojnice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_166.html" title="Vılet 1.C - 4.C 2009">Vılet 1.C - 4.C  - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_165.html" title="Radovánky v Závadì 2009">Radovánky v Závadì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_164.html" title="Škola v pøírodì - Horní Lomná 2009">Škola v pøírodì - Horní Lomná - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_163.html" title="Školní vılet dìtí I.A a II.A do ZOO v Ostravì 2009">Školní vılet dìtí I.A a II.A do ZOO v Ostravì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_162.html" title="Návštìva 2. tøídy ZŠ v MŠ Petrovice 2009">Návštìva 2. tøídy ZŠ v MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_161.html" title="Vılet MŠ do ZOO 2009">Vılet MŠ do ZOO - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_160.html" title="Den dìtí v MŠ Petrovice 2009">Den dìtí v MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_159.html" title="Pohádkovı den 2009">Pohádkovı den - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_158.html" title="Maminkám od srdíèka 2009">Maminkám od srdíèka - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_157.html" title="Den matek 2009">Den matek - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_156.html" title="Finalisté soutìe Talent školy 2009">Finalisté soutìe Talent školy - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_155.html" title="Netradièní tøídní schùzka 2009">Netradièní tøídní schùzka - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_154.html" title="Jarní olympiáda 2009">Jarní olympiáda - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_153.html" title="Projektovı den - Kdo pøeije? 2009">Projektovı den - Kdo pøeije? - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_152.html" title="Vítání jara 2009">Vítání jara - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_151.html" title="Barevné dny - svátky jara 2009">Barevné dny - svátky jara - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_150.html" title="Øemeslnı jarmark 2009">Øemeslnı jarmark - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_149.html" title="Soutì v ZOO Ostrava 2009">Soutì v ZOO Ostrava - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_148.html" title="Noc s Andersenem 2009">Noc s Andersenem - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_147.html" title="Vynášení Morény 2009">Vynášení Morény - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_146.html" title="Pìvecká soutì - regionální kolo - 2009">Pìvecká soutì - regionální kolo - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_145.html" title="Jaro v Marklovicích 2009">Jaro v Marklovicích - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_144.html" title="Návštìva u pana Babiše 2009">Návštìva u pana Babiše - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_143.html" title="Školní florbalová liga 2009">Školní florbalová liga - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_142.html" title="Jarní vızdoba petrovické školy 2009">Jarní vızdoba petrovické školy - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_141.html" title="Karneval MŠ Petrovice 2009">Karneval MŠ Petrovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_140.html" title="Karnevalové vítání jara 2009">Karnevalové vítání jara - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_139.html" title="Hrou proti AIDS 2009">Hrou proti AIDS - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_138.html" title="Bláznivı pátek 2009">Bláznivı pátek - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_137.html" title="Nejvìtší leporelo na svìtì 2009">Nejvìtší leporelo na svìtì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_136.html" title="Karneval 2009">Karneval - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_135.html" title="Pìvecká soutì - mìstské kolo 2009">Pìvecká soutì - mìstské kolo - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_134.html" title="Návštìva planetária 2009">Návštìva planetária - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_133.html" title="Beseda s hasièem 2009">Beseda s hasièem - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_132.html" title="Beseda s pracovníky probaèní sluby 2009">Beseda s pracovníky probaèní sluby - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_131.html" title="Zápis prvòáèkù - Závada 2009">Zápis prvòáèkù - Závada - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_130.html" title="Pohádkovı zápis - Marklovice 2009">Pohádkovı zápis - Marklovice - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_129.html" title="Pohádky pro pøedškoláèky 2009">Pohádky pro pøedškoláèky - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_128.html" title="Zemìpisná fotografická soutì 2009">Zemìpisná fotografická soutì - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_127.html" title="Lyaøskı kurz 2009">Lyaøskı kurz - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_126.html" title="Twist Art 2009">Twist Art - 2009</a></li>
+  <li><a href="index.php%3Fid=9_2007_125.html" title="Dílny v MŠ Petrovice 2008">Dílny v MŠ Petrovice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_124.html" title="Vánoèní besídka v MŠ Petrovice 2008">Vánoèní besídka v MŠ Petrovice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_123.html" title="Vystoupení v MŠ 2008">Vystoupení v MŠ - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_122.html" title="Vánoèní sportování v Marklovicích 2008">Vánoèní sportování v Marklovicích - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_121.html" title="Vánoèní besídka pro rodièe 2008">Vánoèní besídka pro rodièe - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_120.html" title="Vánoèní laka 2008">Vánoèní laka - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_119.html" title="Soutì (nejen) v informatice 2008">Soutì (nejen) v informatice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_118.html" title="Evropské státy a jejich tradice 2008">Evropské státy a jejich tradice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_117.html" title="Vánoèní kouzelné odpoledne 2008">Vánoèní kouzelné odpoledne - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_116.html" title="Vánoèní pohlazení 2008">Vánoèní pohlazení - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_115.html" title="Sportovní dopoledne 2008">Sportovní dopoledne - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_114.html" title="Èesko-polskı turnaj ve stolním tenise 2008">Èesko-polskı turnaj ve stolním tenise - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_113.html" title="Vánoèní vızdoba školy 2008">Vánoèní vızdoba školy - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_112.html" title="Den otevøenıch dveøí v Dolních Marklovicích 2008">Den otevøenıch dveøí v Dolních Marklovicích - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_111.html" title="Školní kolo soutìe ve spoleèenskovìdních znalostech 2008">Školní kolo soutìe ve spoleèenskovìdních znalostech - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_110.html" title="Mikulášská nadílka 2008">Mikulášská nadílka - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_109.html" title="Vánoèní vızdoba 2008">Vánoèní vızdoba - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_108.html" title="Šplh 2008">Šplh - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_107.html" title="ivot ve tmì 2008">ivot ve tmì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_106.html" title="Soutì v muzeu 2008">Soutì v muzeu - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_105.html" title="Pìvecká soutì 2. stupeò 2008">Pìvecká soutì 2. stupeò - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_104.html" title="Pìvecká soutì 1. stupeò 2008">Pìvecká soutì 1. stupeò - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_103.html" title="Soutì ZOO 2008">Soutì ZOO - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_102.html" title="Drakiáda 2008">Drakiáda - 2008</a></li> 
+  <li><a href="index.php%3Fid=9_2007_101.html" title="Školní strašení 2008">Školní strašení - 2008</a></li> 
+  <li><a href="index.php%3Fid=9_2007_100.html" title="Vıroba podzimáèkù 2008">Vıroba podzimáèkù - 2008</a></li> 
+  <li><a href="index.php%3Fid=9_2007_99.html" title="Podzimní vycházka 2008">Podzimní vycházka - 2008</a></li> 
+  <li><a href="index.php%3Fid=9_2007_98.html" title="Podzimní vızdoba školy 2008">Podzimní vızdoba školy - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_97.html" title="Karvinská stezka 2008">Karvinská stezka - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_96.html" title="Den otevøenıch dveøí v I.A 2008">Den otevøenıch dveøí v I.A - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_95.html" title="Ukázka dravcù 2008">Ukázka dravcù - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_94.html" title="Vìdomostní soutì Peking 2008">Vìdomostní soutì Peking - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_93.html" title="Škola v pøírodì 2008">Škola v pøírodì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_92.html" title="Adaptaèní kurz 2008">Adaptaèní kurz - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_91.html" title="Letní tábor 2008">Letní tábor - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_90.html" title="Netradièní návštìva 2008">Netradièní návštìva - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_89.html" title="Den otcù 2008">Den otcù - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_88.html" title="Ve škole naneèisto 2008">Ve škole naneèisto - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_87.html" title="Návštìva pøírodovìdné stanice 2008">Návštìva pøírodovìdné stanice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_86.html" title="Vılet Polsko 2008">Vılet Polsko - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_85.html" title="Vılet druhákù a tøeákù 2008">Vılet druhákù a tøeákù - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_84.html" title="Radovánky v Závadì 2008">Radovánky v Závadì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_83.html" title="Den matek 2008">Den matek - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_82.html" title="Den dìtí 2008">Den dìtí - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_81.html" title="Ohlédnutí 2008">Ohlédnutí - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_80.html" title="Prvòáèci na návštìvì v MŠ 2008">Prvòáèci na návštìvì v MŠ - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_79.html" title="Besídka pro maminky 2008">Besídka pro maminky - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_78.html" title="Superstar 2008">Superstar - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_77.html" title="Svátek maminek ve 3.A 2008">Svátek maminek ve 3.A - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_76.html" title="Bìh mezi pomníky 2008">Bìh mezi pomníky - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_75.html" title="Den matek v Závadì 2008">Den matek v Závadì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_74.html" title="O pohár starosty Petrovic - fotbal - 2008">O pohár starosty Petrovic - fotbal - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_73.html" title="Projektovı den - ák a mimoøádná událost 2008">Projektovı den - ák a mimoøádná událost - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_72.html" title="Projektovı den pro 1. stupeò 2008">Projektovı den pro 1. stupeò - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_71.html" title="O pohár starosty Petrovic - florbal - 2008">O pohár starosty Petrovic - florbal - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_70.html" title="Vıtvarná soutì 2008">Vıtvarná soutì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_69.html" title="Setkání s letci 2008">Setkání s letci - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_68.html" title="Projektovı den - Bezpeènost a zdraví dìtí 2008">Projektovı den - Bezpeènost a zdraví dìtí - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_67.html" title="Krouek øemeslnıch technik - vıstava 2008">Krouek øemeslnıch technik - vıstava - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_66.html" title="Pøírodovìdná a vlastivìdná soutì 2008">Pøírodovìdná a vlastivìdná soutì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_65.html" title="Soutìíme rádi 2008">Soutìíme rádi - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_64.html" title="Florbalovı turnaj Zdravé mìsto 2008">Florbalovı turnaj Zdravé mìsto - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_63.html" title="Okresní finále florbalu 5. tøíd 2008">Okresní finále florbalu 5. tøíd - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_62.html" title="Projektovı den 2008">Projektovı den - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_61.html" title="Návštìva planetária 2008">Návštìva planetária - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_60.html" title="Sluneèní paprsky na naší škole 2008">Sluneèní paprsky na naší škole - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_59.html" title="Školní diskotéka 2008">Školní diskotéka - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_58.html" title="Pìvecká soutì - regionální kolo 2008">Pìvecká soutì - regionální kolo - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_57.html" title="Den uèitelù 2008">Den uèitelù - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_56.html" title="Noc s Andersenem 2008">Noc s Andersenem - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_55.html" title="Školní florbalová liga 2008">Školní florbalová liga - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_54.html" title="Jaro pøišlo do Závady 2008">Jaro pøišlo do Závady - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_53.html" title="Vítání jara 2008">Vítání jara - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_52.html" title="Kdy se jaro zeptá 2008">Kdy se jaro zeptá - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_51.html" title="Nové vybavení uèebny informatiky">Nové vybavení uèebny informatiky</a></li>
+  <li><a href="index.php%3Fid=9_2007_50.html" title="Jaro nás inspiruje 2008">Jaro nás inspiruje - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_49.html" title="Školní kolo biologické olympiády 2008">Školní kolo biologické olympiády - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_48.html" title="Pìvecká soutì Pøišlo jaro k nám 2008">Pìvecká soutì Pøišlo jaro k nám - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_47.html" title="Exkurze v Muzeu Tìšínska 2008">Exkurze v Muzeu Tìšínska - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_46.html" title="Velikonoce na naší škole 2008">Velikonoce na naší škole - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_45.html" title="Dìtskı karneval Petrovice 2008">Dìtskı karneval Petrovice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_44.html" title="Lyaøskı kurz 2008">Lyaøskı kurz - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_43.html" title="Dìtskı karneval Marklovice 2008">Dìtskı karneval Marklovice - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_42.html" title="Karneval v Závadì 2008">Karneval v Závadì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_41.html" title="Kurz bruslení 2008">Kurz bruslení - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_40.html" title="Zápis v Marklovicích 2008">Zápis v Marklovicích - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_39.html" title="Pohádkovı zápis 2008">Pohádkovı zápis - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_38.html" title="Beseda se starostou obce 2008">Beseda se starostou obce - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_37.html" title="Soutìili jsme v Godowì 2008">Soutìili jsme v Godowì - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_36.html" title="Pøedjarní vızdoba školy 2008">Pøedjarní vızdoba školy - 2008</a></li>
+  <li><a href="index.php%3Fid=9_2007_35.html" title="Vánoèní laka 2007">Vánoèní laka - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_34.html" title="Projekt Vánoce a dìti 2007">Projekt Vánoce a dìti - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_33.html" title="Vánoèní besídka v Marklovicích 2007">Vánoèní besídka v Marklovicích - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_32.html" title="Soutì ze znalostí spoleèenskovìdních 2007">Soutì ze znalostí spoleèenskovìdních - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_31.html" title="Vánoèní posezení en z ÈS 2007">Vánoèní posezení en z ÈS - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_30.html" title="Pøedvánoèní návštìva knihovny 2007">Pøedvánoèní návštìva knihovny - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_29.html" title="Poèítaèová grafika 2007">Poèítaèová grafika - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_28.html" title="Zemìpisná olympiáda 2007">Zemìpisná olympiáda - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_27.html" title="Vánoce pøicházejí 2007">Vánoce pøicházejí - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_26.html" title="Pouèení v archivu 2007">Pouèení v archivu - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_25.html" title="Zpìv lidovıch písní 2007">Zpìv lidovıch písní - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_24.html" title="Vıstavka prací 2007">Vıstavka prací - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_23.html" title="Dìjepisná exkurze 2007">Dìjepisná exkurze - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_22.html" title="Dìjepisná soutì 2007">Dìjepisná soutì - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_21.html" title="Soutì ZOO 2007">Soutì ZOO - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_20.html" title="Podzimáèci 2007">Podzimáèci - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_19.html" title="Podzimní vıstava 2007">Podzimní vıstava - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_18.html" title="ŠK stolního tenisu 2007">ŠK stolního tenisu - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_17.html" title="Zelená stezka 2007">Zelená stezka - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_16.html" title="Letní tábor 2007">Letní tábor - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_15.html" title="Škola v pøírodì 2007">Škola v pøírodì - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_14.html" title="Vılet - Polsko 2007">Vılet - Polsko 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_13.html" title="Atletická olympiáda 2007">Atletická olympiáda 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_12.html" title="fotbal v Godowe 2007">Fotbal v Godowì - 2007</a></li>
+  <li><a href="index.php%3Fid=9_2007_11.html" title="Besídka pro maminky">Besídka pro maminky - 2007</a></li> 
+  <li><a href="index.php%3Fid=9_2007_10.html" title="Den otevøenıch dveøí v 2.A">Den otevøenıch dveøí v 2.A - 2007</a></li> 
+  <li><a href="index.php%3Fid=9_2007_9.html" title="Školní florbalová liga 2007">Školní florbalová liga 2007</a></li> 
+  <li><a href="index.php%3Fid=9_2007_8.html" title="Nová uèebna anglického jazyka 2007">Nová uèebna anglického jazyka 2007</a></li> 
+  <li><a href="index.php%3Fid=9_2007_7.html" title="Fotbalové utkání 2007">Fotbalové utkání 2007</a></li>     
+  <li><a href="index.php%3Fid=9_2007_6.html" title="O pohár starosty Petrovic 2007">O pohár starosty Petrovic 2007</a></li> 
+  <li><a href="index.php%3Fid=9_2007_5.html" title="Školní diskotéka 2007">Školní diskotéka - 2007</a></li>  
+  <li><a href="index.php%3Fid=9_2007_4.html" title="Pìvecká soutì 2007">Pìvecká soutì - 2007</a></li>  
+  <li><a href="index.php%3Fid=9_2007_3.html" title="Lyák - 2007">Lyaøskı kurz - 2007</a></li>  
+  <li><a href="index.php%3Fid=9_2007_2.html" title="Karneval 2006">Karneval - 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2007_1.html" title="Bio olympiáda 2007">Bio olympiáda - 2007</a></li>        
+  <li><a href="index.php%3Fid=9_2006_11.html" title="Plavání - 2006/07">"Ve vodì jsme jako doma" - MŠ D. Marklovice, Plavání 2006/07</a></li>  
+  <li><a href="index.php%3Fid=9_2006_10.html" title="Úklid lesa - zima 2006">Úklid lesa - zima 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2006_9.html" title="Besídka - zima 2006">Besídka - zima 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2006_8.html" title="Exkurze 1.stupnì - podzim 2006">Exkurze 1.stupnì - podzim 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2006_7.html" title="Pìvecká soutì - podzim 2006">Pìvecká soutì - podzim 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2006_6.html" title="Soutì v ZOO Ostrava - podzim 2006">Soutì v ZOO Ostrava - podzim 2006</a></li>  
+  <li><a href="index.php%3Fid=9_2006_5.html" title="Podzimáèci - rok 2006">"Podzimáèci" - rok 2006</a></li>
+  <li><a href="index.php%3Fid=9_2006_4.html" title="Karlovice - rok 2006">Karlovice - rok 2006</a></li>
+  <li><a href="index.php%3Fid=9_2006_1.html" title="Škola v pøírodì - rok 2006">Škola v pøírodì - rok 2006</a></li>
+  <li><a href="index.php%3Fid=9_2006_2.html" title="Talent - rok 2006">Talent - rok 2006</a></li>
+  <li><a href="index.php%3Fid=9_2006_3.html" title="Den dìtí - rok 2006">Den dìtí - rok 2006</a></li>
+</ul>
+</div>  
+<!-- Konec Prostredni sloupec -->
+<!-- Spodni sloupec -->
+  <div id="bottom">
+  <div id="bottom_in">
+    <a href="mailto:dantik&#64;atlas.cz">Webmaster</a>&nbsp;&copy;&nbsp;2006&nbsp;|&nbsp;Základní škola Petrovice u Karviné&nbsp;|&nbsp;<a href="index.php%3Fid=9.html#general">Nahoru</a>
+  </div>
+  </div>
+<!-- Konec spodni sloupec -->
+</div>
+
+  </body>
+</html>
