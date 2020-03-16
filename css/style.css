@@ -1,0 +1,360 @@
+/* CSS Document */
+body, html {
+	border: 0px none;
+	margin: 0;
+	padding: 0;
+}
+body {
+  height: 100%; /* dulezite */	
+  color: #000000;
+	font-size: 80%;
+  font-family: Verdana, "Arial CE", "Helvetica CE", Helvetica, sans-serif;
+	background-color: #f1f5dc;
+	VERTICAL-ALIGN: top;
+}
+/*background-color: rgb(202,255,202); #CAFFCA #ABDB43*/
+p, img, table, tr, th, td, ul, li span {
+	border:  0px none;
+	margin:  0px;
+	padding: 0px;
+}
+table {
+	font: 100% Verdana, "Arial CE", "Helvetica CE", Helvetica, sans-serif;
+	color: #000000;
+	background-color: #f1f5dc;	
+}
+hr {
+	background-color: rgb(1,51,0);
+	border-width: 0px;
+	height: 1px;
+	color: rgb(1,51,0);
+	width: 99%;
+	text-align: center;
+}
+h2, h3 {
+	font-weight: bold;
+	text-align: left;
+	background-color: #f1f5dc;		
+}
+h1 {
+	font-size: 140%;
+	color: #CAFFCA;
+	background: #ABDB43;	
+	border: 1px solid #CAFFCA;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	padding: 1px 10px 1px 0px;	
+	font-weight: bold;			
+  text-align: right;
+}
+h2 {
+	font-size: 120%;
+	color: rgb(1,51,0);
+	margin-top: 5px;
+	margin-bottom: 3px;
+	background: #CAFFCA;	
+	padding: 1px 0px 1px 5px;		
+}
+h3 {
+	font-size: 110%;
+	color: rgb(1,51,0);
+	margin-top: 0px;
+	margin-bottom: 3px;
+}
+p {
+	margin-top: 5px;
+	margin-bottom: 2px;
+	text-align: justify;
+	text-indent: 0px;
+}
+ul, ol, dl {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 1.3em;
+	padding: 0px;
+	list-style-type: disc;
+}
+dt {
+	font-weight: bolder;
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/*zacatek absolutni adresase*/
+.logo_petrovice {
+  position: absolute; 
+  top: 15px; 
+  left: 32px; 
+	margin: 0 auto;
+	width: 72px;
+  height:64px;	
+}
+.foto_skoly {
+  position: absolute; 
+  top:0px;
+  left:798px;
+	height: 115px;
+	width: 118px;	
+}
+/*konec absolutni adresase*/
+#top {
+	height: 115px;
+	border-bottom: 1px solid #ABDB43;
+	text-align: left;
+	vertical-align: middle;
+	background-image: url(../pixy/top_pozadi.gif);
+	background-repeat: repeat-x;
+	background-color: #CAFFCA;
+}
+#top .vlevo{
+	width: 135px;
+	height: 115px;
+	text-align: left;
+	vertical-align: top;
+	background-color: #ABDB43; 
+}
+#top .vpravo{
+	width: 663px;
+	height: 115px;
+  text-align: left;
+	vertical-align: top;
+	background-color: #CAFFCA; 
+}
+#top .admin{
+  position: absolute; 
+  top: 95px; 
+  left: 170px; 
+	text-align: right;
+	vertical-align: top;
+	color: rgb(233,255,233);
+	font-size: 10px;
+	margin:0px;
+	padding:0px;
+
+}
+#panelL {
+	float: left;
+	width: 135px;
+	height: auto;
+	color: #000000;
+	border-right: 1px solid #ABDB43; /*013300*/
+	font-size: 80%;	
+	font-weight: bold;
+	background-color: #ABDB43;
+}
+#panelL .box_svetly{
+	width: 125px;
+	height: 70px;
+	color: #000000;
+	background-color: #ABDB43;
+}
+#panelL .menu {
+	font-size: 100%;
+	margin-bottom: -3px; /*prilepeni hlavicky k menu*/
+	background: rgb(1,51,0);	
+	color: #ffffff;
+	padding: 4px;	
+	font-weight: bold;			
+  text-align: center;
+}
+#panelL ul, #panelL li {
+	list-style: none;
+	display: inline;
+	margin-left: 0em;	/*ochrana proti odrazeni prvni polozky menu*/
+}
+#panelL ul li a {
+	display: block;
+	padding: 4px;
+	padding-left: 10px;
+	margin-bottom: 1px;
+	line-height: 15px;
+	background: rgb(52,102,51); /*346633*/
+}	
+#panelL a:link, #panelL a:visited, #panelL a:hover, #panelL a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+#panelL a:hover {
+	text-decoration: underline;
+}
+#panelL a:active {
+	text-decoration: underline;
+	color: #000000;
+}
+#panelL-in{
+  margin: 5px;
+}
+#panelP {
+	float: right;
+	width: 140px;
+	height: auto;
+	font-size: 80%;	
+	color: #000000;
+}
+#panelP .zahlavi {
+	margin-bottom: 0px; /*prilepeni hlavicky k menu*/
+	background: rgb(1,51,0);	
+	color: #ffffff;
+	padding: 4px;	
+	font-weight: bold;			
+  text-align: center;
+	margin-top: 10px;  
+}
+#panelP .obsah {
+	border:1px solid #ABDB43;
+	color: #000000;
+	padding: 3px;	
+  text-align: justify;
+  background-color: rgb(202,255,202); /*#CAFFCA #ABDB43*/
+}
+#panelP a:link, #panelP a:visited, #panelP a:hover, #panelP a:active {
+	text-decoration: underline;
+	color: #346633;
+}
+#panelP a:hover {
+	text-decoration: none;
+}
+#panelU {
+	height: expression("0px"); /* workaround pro 3px bug v IE */	
+  margin: 0px 150px 0px 145px;
+	padding: 10px 0;
+	vertical-align: top;	
+}
+#panelU .top{
+	width: 100%;
+	height: 20px;
+  text-align: left;
+	vertical-align: top;
+	background-image: url(../pixy/tmave_zelena.gif);
+	background-repeat: repeat-x;
+	background-color: #346633; 
+  overflow: hidden;		
+}
+#panelU ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+	list-style-image: url(../pixy/li_bullet.gif);
+}
+#panelU ol {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 25px;
+}
+#panelU blockquote {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+#panelU a:link, #panelU a:visited, #panelU a:hover, #panelU a:active {
+	text-decoration: underline;
+	color: #346633;
+}
+#panelU a:hover {
+	text-decoration: none;
+}
+#page {
+  position:relative; /* dulezite */
+  height: 100%; /* nastaveni pro IE */
+	background-color: #f1f5dc;  
+	min-width: 930px;
+  _width: expression(document.body.clientWidth < 930? "930px" : "auto" );
+}
+/* pro ostatni pouzijeme min-height: */
+html>body #page {
+	height: auto;
+  min-height: 100%;
+}
+#bottom {
+	clear: both;
+	height: 25px;
+}
+#bottom_in {
+	position: absolute;
+	left:0px;
+	bottom:0px;
+	width: 100%;
+	height: 25px;	
+	background-color: #caffca;
+	border-top:3px solid #ABDB43;
+	text-align: center;	
+	padding: 5px 0px;
+	color: #346633;
+	/* workaround pro obcasne ujizdeni o pixel v IE: */
+  top: expression( document.getElementById('page').offsetHeight - document.getElementById('bottom_in').offsetHeight );
+	overflow: hidden;
+}
+#bottom a:link, #bottom a:visited, #bottom a:hover, #bottom a:active {
+	text-decoration: underline;
+	color: #346633;
+}
+#bottom a:hover {
+	text-decoration: none;
+}
+.center {
+	text-align: center;	
+}  
+.right {
+	text-align: right;	
+}  
+.cal {
+	width: 16px;
+	height: 16px;
+	font-size: 11px;
+	color: rgb(1,51,0);
+}
+a.cal {
+  font-size:10px;
+	text-decoration: none;
+	color: rgb(1,51,0);
+}
+a.cal:hover {
+  font-size:10px;
+	text-decoration: underline;
+	color: #346633;
+}
+.poznamka_vpravo {
+  font-style: italic;
+  font-size: 90%;
+	text-align: right;
+	color: rgb(52,102,51); /*346633*/;
+}
+.poznamka_vlevo {
+  font-style: italic;
+  font-size: 90%;
+	text-align: left;
+	color: rgb(52,102,51); /*346633*/;
+}
+.table_main {
+	background-color: rgb(202,255,202); /*rgb(215,240,209);*/
+	color: #000000;
+	border-right:1px solid #346633;
+	border-left:1px solid #346633;	
+	border-bottom:1px solid #346633;	
+  border-top:3px solid #346633;
+  border-collapse: collapse;
+  table-layout: fixed; 
+}
+.table_main td {
+  padding: 2px 10px 2px 10px;
+}
+.table_main caption {
+  vertical-align: top;
+  color: #346633;
+	background-color: #E9FFE9;
+  font-size: 120%;
+  font-weight: bold;
+  padding: 3px 0 3px 0;
+}
+.table_main .head{
+	background-color: rgb(215,240,209);
+	color: #000000;
+	border-bottom:1px solid #346633;
+	font-weight: bold;
+}
+
